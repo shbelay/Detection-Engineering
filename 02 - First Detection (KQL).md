@@ -1,4 +1,4 @@
-# Day 2 – Baby’s First Detection (KQL)
+# Part 2 – Baby’s First Detection (KQL)
 
 ## Personal Reflection
 
