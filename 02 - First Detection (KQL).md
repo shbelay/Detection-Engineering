@@ -2,7 +2,7 @@
 
 ## Personal Reflection
 
-On my second day of the detection engineering class, I documented my steps into building a custom detection in Elastic using **Kibana Query Language (KQL)**. This was a transition from collecting data with the Elastic Agent on my Windows VM from part 1 to writing a query and turning it into a detection rule.  
+On my second part of the detection engineering class, I documented my steps into building a custom detection in Elastic using **Kibana Query Language (KQL)**. This was a transition from collecting data with the Elastic Agent on my Windows VM from part 1 to writing a query and turning it into a detection rule.  
 
 The goal was to detect when someone runs the `net user` command on a Windows machine. This is mapped to **MITRE ATT&CK T1087.001 – Account Discovery: Local Account**, a common technique attackers use to enumerate local accounts.
 
