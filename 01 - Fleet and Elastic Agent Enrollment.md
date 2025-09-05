@@ -2,7 +2,7 @@
 
 ## Personal Reflection
 
-The first step in for our detection engineering lab was enrolling a Fleet server (Windows VM) and installing an Elastic agent on that server to create an agent policy. The agent would provide visibility into my endpoint data flowing into Elastic.
+The first step in the detection engineering lab was enrolling a Fleet server (Windows VM) and installing an Elastic agent on that server to create an agent policy. The agent would provide visibility into my endpoint data flowing into Elastic.
 
 ---
 
