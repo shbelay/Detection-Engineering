@@ -1,4 +1,4 @@
-# Lab 01 – Fleet and Elastic Agent Enrollment
+# Part 01 – Fleet and Elastic Agent Enrollment
 
 ## Personal Reflection
 
